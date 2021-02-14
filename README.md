@@ -17,6 +17,8 @@ API REST com uso do NODEJS e Postgresql
   </a>
 </p>
 <br>
-## 📚 SOBRE O PROJETO
-API REST com Nodejs visando o aprimoramento quanto aos conhecimentos ligados ao NodeJs e tambem aos javascript.
+    
+## 📚 SOBRE O PROJETO: 
+    
+API REST com Nodejs visando o aprimoramento quanto aos conhecimentos ligados ao NodeJs e tambem ao javascript.
 Trata-se de uma API simples tendo como guia a serie oferecida por Rodrigo Branas no youtube.
