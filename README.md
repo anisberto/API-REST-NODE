@@ -12,8 +12,8 @@ API REST com uso do NODEJS e Postgresql
   <a href="https://github.com/anisberto">
     <img alt="Anisberto Reis" src="https://img.shields.io/badge/Anisberto Reis-DEV-blue">
   </a>
-    <a href="https://devsuperior.com.br/">
-    <img alt="SDS" src="https://img.shields.io/badge/SDS-DEV--SUPERIOR-PORPLE">
+    <a href="https://www.youtube.com/watch?v=Eb9I8KNhYdU&list=RDCMUCkqOofjb7nl6V8vXrIbGtiQ&index=1">
+    <img alt="REST" src="https://img.shields.io/badge/REST-NODE-BRANAS-red">
   </a>
 </p>
 <br>
